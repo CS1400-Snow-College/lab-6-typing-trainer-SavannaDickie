@@ -48,6 +48,8 @@ string[] words = challengeText.Split(' ');
 int wordCount = words.Count();
 
 Console.WriteLine();
-Console.WriteLine($"Typing practice over!\n\nErrors: {incorrect}");
+Console.WriteLine($"\nTyping practice over!\n");//Errors: {incorrect}");
+double accuracy = Math.Floor((double)(challengeText.Length - incorrect)/challengeText.Length * 100);
+Console.WriteLine($"Accuracy: {accuracy}%");
 int speed = (int)((wordCount - incorrect) * 60 / (stopwatch.ElapsedMilliseconds/1000));
 Console.WriteLine($"Words per minute: {speed}");
