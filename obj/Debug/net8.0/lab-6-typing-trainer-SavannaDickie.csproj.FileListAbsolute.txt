@@ -1,0 +1,15 @@
+/Users/personal3/Downloads/code/mycodedir/lab-6-typing-trainer-SavannaDickie/bin/Debug/net8.0/lab-6-typing-trainer-SavannaDickie
+/Users/personal3/Downloads/code/mycodedir/lab-6-typing-trainer-SavannaDickie/bin/Debug/net8.0/lab-6-typing-trainer-SavannaDickie.deps.json
+/Users/personal3/Downloads/code/mycodedir/lab-6-typing-trainer-SavannaDickie/bin/Debug/net8.0/lab-6-typing-trainer-SavannaDickie.runtimeconfig.json
+/Users/personal3/Downloads/code/mycodedir/lab-6-typing-trainer-SavannaDickie/bin/Debug/net8.0/lab-6-typing-trainer-SavannaDickie.dll
+/Users/personal3/Downloads/code/mycodedir/lab-6-typing-trainer-SavannaDickie/bin/Debug/net8.0/lab-6-typing-trainer-SavannaDickie.pdb
+/Users/personal3/Downloads/code/mycodedir/lab-6-typing-trainer-SavannaDickie/obj/Debug/net8.0/lab-6-typing-trainer-SavannaDickie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/personal3/Downloads/code/mycodedir/lab-6-typing-trainer-SavannaDickie/obj/Debug/net8.0/lab-6-typing-trainer-SavannaDickie.AssemblyInfoInputs.cache
+/Users/personal3/Downloads/code/mycodedir/lab-6-typing-trainer-SavannaDickie/obj/Debug/net8.0/lab-6-typing-trainer-SavannaDickie.AssemblyInfo.cs
+/Users/personal3/Downloads/code/mycodedir/lab-6-typing-trainer-SavannaDickie/obj/Debug/net8.0/lab-6-typing-trainer-SavannaDickie.csproj.CoreCompileInputs.cache
+/Users/personal3/Downloads/code/mycodedir/lab-6-typing-trainer-SavannaDickie/obj/Debug/net8.0/lab-6-typing-trainer-SavannaDickie.sourcelink.json
+/Users/personal3/Downloads/code/mycodedir/lab-6-typing-trainer-SavannaDickie/obj/Debug/net8.0/lab-6-typing-trainer-SavannaDickie.dll
+/Users/personal3/Downloads/code/mycodedir/lab-6-typing-trainer-SavannaDickie/obj/Debug/net8.0/refint/lab-6-typing-trainer-SavannaDickie.dll
+/Users/personal3/Downloads/code/mycodedir/lab-6-typing-trainer-SavannaDickie/obj/Debug/net8.0/lab-6-typing-trainer-SavannaDickie.pdb
+/Users/personal3/Downloads/code/mycodedir/lab-6-typing-trainer-SavannaDickie/obj/Debug/net8.0/lab-6-typing-trainer-SavannaDickie.genruntimeconfig.cache
+/Users/personal3/Downloads/code/mycodedir/lab-6-typing-trainer-SavannaDickie/obj/Debug/net8.0/ref/lab-6-typing-trainer-SavannaDickie.dll
